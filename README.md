@@ -2,11 +2,21 @@
 
 This repository contains the code for a script that will run a Slash Command for a Private Advent of Code Leaderboard on Slack. This repo is a fork from tomswartz and expanded to be a slash command
 
+![Example](AdventBoard.png)
+
+# Custom Start Times
+
 For me, midnight EST is not a good time to attempt the challenges, so I've added `/advent start` as a way for users to mark their start time which results in a custom leaderboard. This of course requires participants not to cheat and peak at solutions. 
 
-Commands:
+![Example](AdventStart.png)
+
+
+# Commands
 leaderboard: display the overall leaderboard ranked by stars
 today: display today's ranking ranked by how fast each partipant was (either from midnight EST, or when they used `/advent start`
+start: mark your custom start time
+details: dump the json used for informational purposes
+
 
 ## Setup
 **Prerequisites**:
