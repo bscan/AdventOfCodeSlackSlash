@@ -1,6 +1,6 @@
 # Advent of Code Leaderboard Slash Command 
 
-This repository contains the code for a script that will run a Slash Command for a Private Advent of Code Leaderboard on Slack. This repo is a fork from tomswartz and expanded to be a slash command
+This repository contains the code for a script that will run a Slash Command for a Private Advent of Code Leaderboard on Slack. This repo was originally forked from https://github.com/tomswartz07/AdventOfCodeLeaderboard and then expanded to be a slash command
 
 ![Example](AdventBoard.png)
 
