@@ -12,10 +12,10 @@ For me, midnight EST is not a good time to attempt the challenges, so I've added
 
 
 # Commands
-leaderboard: display the overall leaderboard ranked by stars
-today: display today's ranking ranked by how fast each partipant was (either from midnight EST, or when they used `/advent start`
-start: mark your custom start time
-details: dump the json used for informational purposes
+- leaderboard: display the overall leaderboard ranked by stars
+- today: display today's ranking ranked by how long each partipant took. Either from midnight EST, or when they used `/advent start`
+- start: mark your custom start time
+- details: dump the json used for informational purposes
 
 
 ## Setup
